@@ -1,0 +1,19 @@
+
+{
+  "name": "ai-notes-saas-pro",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "puppeteer": "^22.0.0",
+    "node-fetch": "^3.3.2",
+    "@upstash/redis": "^1.28.0"
+  }
+}
